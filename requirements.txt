@@ -1,0 +1,4 @@
+# External Dependencies too: surf from suckless tools
+jupyter => 1.0.0
+notebook => 5.7.8
+sh => 1.12.14
