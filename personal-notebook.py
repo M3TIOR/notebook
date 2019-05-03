@@ -37,9 +37,10 @@ except ImportError:
 	sys.exit(1)
 
 try:
-	from sh import surf
+	from sh import chromium_browser
 except ImportError:
-	print("Error: you need surf from suckless tools to run this program.")
+	print("Error: you need chromium-browser to run this program.")
+	#print("Error: you need surf from suckless tools to run this program.")
 	sys.exit(1)
 
 
@@ -93,7 +94,15 @@ joy = jupyter.notebook(
 joy_started.wait() # wait for initialization to finish
 
 # Start the browser session.
-surfer = surf(joy_key)
+surfer = chromium_browser(
+	# loads a new chromium instance so this doesn't open in a pre-existing
+	# process and terminate early.
+	"--temp-profile",
+	# forces dark mode borders and such. Just in case they appear somehow.
+	"--force-dark-mode",
+	# removes the window borders and url bar.
+	"--app="+joy_key
+)
 
 # When the browser is closed, close down the server
 jupyter.notebook.stop(joy_port)
