@@ -1,0 +1,63 @@
+M3TIOR's Tool List
+==================
+
+Below I've compiled a list, again, of the various applications and products I use on the
+day to day for various tasks and objectives. These are mostly all geared toward productivity
+and I'm only even making this so I never forget these tools in case I need to reconfigure
+a new system in the future of mine. The target system of this list is Linux; so you won't see
+Windows or Mac limited software in here.
+
+## Music
+
+### Mixing
+***Mixxx***: A multi-track song mixing platform complete with various DJ tools and sampling features.
+
+### Composition
+
+### Audio Connection (Special Case)
+***JACK:*** The superior Linux DAW Audio Connection kit
+***qjackctl:*** The best method for JACK deployment in my experience.
+
+### Sampling
+***Audacity***
+
+## Video
+
+### Editing
+
+
+### Streaming
+***OBS Studio:*** A video streaming solution with extensions for streaming platforms such as Youtube and Twitch built in. Highly performant and cross platform.
+
+## Programming
+
+### Package Management
+***pnpm:*** An NPM package manager alternative. It manages packages in a global list and symlinks them into package virtual environments. When package virtual environments need packages that are incompatable with the global store, those packages are installed local to the target env.
+
+### Reverse Engeneering
+***Boken:*** A reverse engeneering tool for tracing assembly execution and C code reconstruction.
+
+### Code Writing
+***Atom:*** A hackable text editor from Github!
+
+### Debugging
+***GDB:*** The GNU debugger. Compliant with GCC output alone, but still very relyable.
+
+### Cognitive Automation
+***Netron:*** A neural network visualizer / viewer. Compliant with tons of network formats and cross platform.
+
+## Art
+
+***Gimp:*** A free and open source image processor tool with a python extension API. This is uncattegorized as it's built for general use.
+
+### Drawing
+
+***Krita:*** A lovely QT application that's stylable to the core. It has various color gammuts supported along with being targeted to traditional art.
+
+### Post Processing
+
+### Animation
+
+### 3d Modeling
+
+***Blender:*** Too tired to write; blender's awesome.
