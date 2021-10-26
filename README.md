@@ -1,18 +1,10 @@
-# M3TIOR's Jupyter Notebook
-My personal Jupyter Notebook made public for other peeps to grab at.
 
-I just found out that Github supports compilation of
-Jupyter Notebooks. So just navigate to which ever notebook *page* you think
-might be interesting and take a look. Not all are guaranteed to work, but most
-will. Especially ones that uses kernels as opposed to nonstandard magics,
-and native Jupyter features.
 
-This may also serve as a redundant storage location for some of my blog
-posts as I do plan on using my notebook for writing certain blog posts.
-If my blog is down for some reason, or you just want to look at my scraps
-as well you're welcome to it all.
+Estradiol Min Dose: 0.5mg
+Progesterone Min Dose: 10mg
+Average E2 levels for men: 10-40 pg/mL
+Average Prog levels for men: 0.13-0.97 ng/mL
 
-**Have at it!**
-
-Much love,<br/>
-M3TIOR
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944393/
+https://sci-hubtw.hkvisa.net/10.1210/jendso/bvaa046.2237
+https://pubmed.ncbi.nlm.nih.gov/16112947
