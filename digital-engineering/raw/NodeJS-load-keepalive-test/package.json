@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-load-keepalive-test",
+  "version": "1.0.0",
+  "description": "A test to see whether or not NodeJS keeps globals alive between relative module load invocations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruby Allison Rose",
+  "license": "MIT"
+}

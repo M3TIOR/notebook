@@ -1,0 +1,5 @@
+dependencies:
+  nodejs-module-global: 'link:'
+lockfileVersion: 5.1
+specifiers:
+  nodejs-module-global: 'link:'

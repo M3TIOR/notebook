@@ -1,0 +1,4 @@
+2020-03-15 19:19:49,839 INFO Configuration.deprecation: user.name is deprecated. Instead, use mapreduce.job.user.name
+2020-03-15 19:19:49,918 INFO pig.ExecTypeProvider: Trying ExecType : LOCAL
+2020-03-15 19:19:49,918 INFO pig.ExecTypeProvider: Picked LOCAL as the ExecType
+2020-03-15 19:19:50,268 [main] INFO  org.apache.hadoop.conf.Configuration.deprecation - mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address

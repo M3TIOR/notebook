@@ -1,0 +1,17 @@
+M3TIOR's Failed Projects
+========================
+
+This is a comprehensive list of all the projects I started either without
+doing the necessary research first or decided I wanted to build and then
+abandoned after I did said research because it wasn't possible.
+
+## Chromate
+### Objective
+I wanted to build a Chrome APP manager for linux, so I could have a gui to access them without going through chromium/chrome's dastardly UIs.
+
+### Why was it cancled?
+I started the project around mid 2019, and didn't know Google had recently released a statement about ending APP support in
+Chromium/Chrome in favor of native executables and the Android APK format. I got about three hours into the project and found
+an article published regarding Googles statement. Just long enough for me to solidify a good name for the project and write
+the `application.json`.
+
