@@ -1,3 +1,87 @@
 [submodule "3rd-party-res/benchmark"]
 	path = 3rd-party-res/benchmark
 	url = https://github.com/google/benchmark
+
+[submodule "awesome-bookmarks/project-based-learning"]
+	path = awesome-bookmarks/project-based-learning
+	url = https://github.com/practical-tutorials/project-based-learning
+
+[submodule "awesome-bookmarks/osint"]
+	path = awesome-bookmarks/osint
+	url = https://github.com/jivoi/awesome-osint
+
+[submodule "awesome-bookmarks/web-security"]
+	path = awesome-bookmarks/web-security
+	url = https://github.com/qazbnm456/awesome-web-security
+
+[submodule "awesome-bookmarks/ctf"]
+	path = awesome-bookmarks/ctf
+	url = https://github.com/apsdehal/awesome-ctf
+
+[submodule "awesome-bookmarks/chaos-engineering"]
+	path = awesome-bookmarks/chaos-engineering
+	url = https://github.com/dastergon/awesome-chaos-engineering
+
+[submodule "awesome-bookmarks/hacking"]
+	path = awesome-bookmarks/hacking
+	url = https://github.com/carpedm20/awesome-hacking
+
+[submodule "awesome-bookmarks/incident-response"]
+	path = awesome-bookmarks/incident-response
+	url = https://github.com/meirwah/awesome-incident-response
+
+[submodule "awesome-bookmarks/reversing"]
+	path = awesome-bookmarks/reversing
+	url = https://github.com/tylerha97/awesome-reversing
+
+[submodule "awesome-bookmarks/deep-learning"]
+	path = awesome-bookmarks/deep-learning
+	url = https://github.com/ChristosChristofidis/awesome-deep-learning
+
+[submodule "awesome-bookmarks/network-embedding"]
+	path = awesome-bookmarks/network-embedding
+	url = https://github.com/chihming/awesome-network-embedding
+
+[submodule "awesome-bookmarks/embedded"]
+	path = awesome-bookmarks/embedded
+	url = https://github.com/nhivp/Awesome-Embedded
+
+[submodule "awesome-bookmarks/sysadmin"]
+	path = awesome-bookmarks/sysadmin
+	url = https://github.com/kahun/awesome-sysadmin
+
+[submodule "awesome-bookmarks/threat-intelligence"]
+	path = awesome-bookmarks/threat-intelligence
+	url = https://github.com/hslatman/awesome-threat-intelligence
+
+[submodule "awesome-bookmarks/forensics"]
+	path = awesome-bookmarks/forensics
+	url = https://github.com/cugu/awesome-forensics
+
+[submodule "awesome-bookmarks/threat-detection"]
+	path = awesome-bookmarks/threat-intelligence
+	url = https://github.com/0x4D31/awesome-threat-detection
+
+[submodule "awesome-bookmarks/free-certifications"]
+	path = "awesome-bookmarks/free-certifications"
+	url = https://github.com/cloudcommunity/Free-Certifications
+
+[submodule "awesome-bookmarks/data-science-blogs"]
+	path = "awesome-bookmarks/data-science-blogs"
+	url = https://github.com/rushter/data-science-blogs
+
+[submodule "awesome-bookmarks/audio-visualization"]
+	path = awesome-bookmarks/audio-visualization
+	url = https://github.com/willianjusten/awesome-audio-visualization
+
+[submodule "awesome-bookmarks/data-engineering"]
+	path = awesome-bookmarks/data-engineering
+	url = https://github.com/igorbarinov/awesome-data-engineering
+
+[submodule "awesome-bookmarks/self-supervised-learning"]
+	path = awesome-bookmarks/self-supervised-learning
+	url = https://github.com/jason718/awesome-self-supervised-learning
+
+[submodule "awesome-bookmarks/jupyter"]
+	path = awesome-bookmarks/jupyter
+	url = https://github.com/markusschanta/awesome-jupyter
